@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test_Suite1" duration-ms="52" started-at="2021-08-13T05:38:39Z" finished-at="2021-08-13T05:38:39Z">
+    <groups>
+    </groups>
+    <test name="Smoke testing" duration-ms="52" started-at="2021-08-13T05:38:39Z" finished-at="2021-08-13T05:38:39Z">
+      <class name="com.example.Functional">
+        <test-method status="PASS" signature="before_suite1()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="before_suite1" is-config="true" duration-ms="9" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_suite1 -->
+        <test-method status="PASS" signature="before_suite1()[pri:0, instance:com.example.Smoke@3c09711b]" name="before_suite1" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_suite1 -->
+        <test-method status="PASS" signature="before_test1()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="before_test1" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_test1 -->
+        <test-method status="PASS" signature="before_test1()[pri:0, instance:com.example.Smoke@3c09711b]" name="before_test1" is-config="true" duration-ms="1" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_test1 -->
+        <test-method status="PASS" signature="Sample4()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="Sample4" duration-ms="2" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample4 -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="before_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="beforeclass" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="Sample5()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="Sample5" duration-ms="2" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample5 -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="before_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="after_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="after_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="before_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="Sample6()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="Sample6" duration-ms="2" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample6 -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="afterclass" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="after_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="after_test1()[pri:0, instance:com.example.Smoke@3c09711b]" name="after_test1" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_test1 -->
+        <test-method status="PASS" signature="after_test1()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="after_test1" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_test1 -->
+        <test-method status="PASS" signature="after_suite1()[pri:0, instance:com.example.Functional@5cc7c2a6]" name="after_suite1" is-config="true" duration-ms="1" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_suite1 -->
+        <test-method status="PASS" signature="after_suite1()[pri:0, instance:com.example.Smoke@3c09711b]" name="after_suite1" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_suite1 -->
+      </class> <!-- com.example.Functional -->
+      <class name="com.example.Smoke">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:com.example.Smoke@3c09711b]" name="beforeclass" is-config="true" duration-ms="1" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="Sample1()[pri:0, instance:com.example.Smoke@3c09711b]" name="Sample1" duration-ms="6" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample1 -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.example.Smoke@3c09711b]" name="before_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.example.Smoke@3c09711b]" name="after_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.example.Smoke@3c09711b]" name="before_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="Sample2()[pri:0, instance:com.example.Smoke@3c09711b]" name="Sample2" duration-ms="2" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample2 -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.example.Smoke@3c09711b]" name="after_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="before_method()[pri:0, instance:com.example.Smoke@3c09711b]" name="before_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_method -->
+        <test-method status="PASS" signature="Sample3()[pri:0, instance:com.example.Smoke@3c09711b]" name="Sample3" duration-ms="2" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample3 -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:com.example.Smoke@3c09711b]" name="afterclass" is-config="true" duration-ms="1" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.example.Smoke@3c09711b]" name="after_method" is-config="true" duration-ms="0" started-at="2021-08-13T11:08:39Z" finished-at="2021-08-13T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+      </class> <!-- com.example.Smoke -->
+    </test> <!-- Smoke testing -->
+  </suite> <!-- Test_Suite1 -->
+</testng-results>

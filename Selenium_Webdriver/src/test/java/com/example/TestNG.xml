@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--<suite name="Test_Suite1">
+<test name="Smoke testing">
+<groups>
+<run>
+<include name="Smoke test" />
+<exclude name="Functional test" />
+</run>
+</groups>
+<classes>
+<class name="com.example.Group">
+</class>
+</classes>
+</test>
+</suite> 
+
+
+<suite name="Test_Suite1">
+<test name="Smoke testing">
+<classes>
+<class name="com.example.Ignore">
+</class>
+</classes>
+</test>
+</suite> 
+
+
+<suite name="Test_Suite1">
+<test name="Smoke testing">
+<classes>
+<class name="com.example.Exception">
+</class>
+</classes>
+</test>
+</suite> 
+
+
+<suite name="Test_Suite1">
+<test name="Smoke testing">
+<classes>
+<class name="com.example.Timeout">
+</class>
+</classes>
+</test>
+</suite> 
+
+
+<suite name="Test_Suite1">
+<test name="Smoke testing">
+<classes>
+<class name="com.example.Priority">
+</class>
+</classes>
+</test>
+</suite>  
+
+
+ <suite name="Test_Suite1">
+<test name="Smoke testing">
+<classes>
+<class name="com.example.DependsOn">
+</class>
+</classes>
+</test>
+</suite> 
+
+
+<suite name="Test_Suite1">
+<test name="Smoke testing">
+<classes>
+<class name="com.example.CalcTest">
+</class>
+</classes>
+</test>
+</suite> -->
+
+
+<suite name="Test_Suite1" parallel="tests" thread-count="2">
+<test name="Smoke testing">
+<classes>
+<class name="com.example.Smoke">
+</class>
+<class name="com.example.Functional">
+</class>
+</classes>
+</test>
+ <!--  <test name="Functional testing">
+<classes>
+<class name="com.example.Functional">
+</class>
+</classes>
+</test>-->
+</suite> 
+
+
+<!-- <suite name="Test_Suite1">
+<test name="Smoke testing" parallel = "classes">  
+<classes>
+<class name="com.example.Smoke">
+</class>
+</classes>
+ </test>
+ <test name="Functional testing" parallel = "classes"> 
+<classes>
+<class name="com.example.Functional">
+</class>
+</classes>
+ </test>
+</suite> 
+
+
+
+<suite name="Test_Suite1">
+<test name="Smoke testing" parallel = "methods" thread-count="6"> 
+<classes>
+<class name="com.example.Smoke">
+</class>
+</classes>
+</test>
+<test name="Functional testing" parallel="methods" thread-count="6"> 
+<classes>
+<class name="com.example.Functional">
+</class>
+</classes>
+</test>
+</suite> -->
+
+
